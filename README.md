@@ -14,12 +14,6 @@
 
 [Deep_learning_Stanford_University](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
-### perceptron algorithm
-
-[Intro to Truth Tables & Boolean Algebra](https://medium.com/i-math/intro-to-truth-tables-boolean-algebra-73b331dd9b94)
-
-
-
 
 *****
 
@@ -44,3 +38,64 @@
 [Deep learning_3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 *****
+
+# Artificial Neural Networks (ANN)
+
+## Perceptron
+
+## Backpropagation
+
+## Optimazation
+
+## Visuals
+
+## 
+
+*******
+
+# Convolutional Neural Networks (CNN)
+
+## Weight Initialization
+
+## Autoencoder
+
+## Transfer Learning
+
+## Style Transfer
+
+
+*******
+
+
+# Recurrent Neural Network (RNN)
+
+## Long Short-Term Memory Network (LSTM)
+
+## Embedding and Word2Vec
+
+*******
+
+# Renerative Adversarial Networks
+
+## CycleGAN
+
+*****
+
+# Deployment of Neural Networks
+
+****
+
+
+**** 
+
+# PyTorch
+
+# TensorFlow
+
+# Keras
+
+### Truth table
+
+[Intro to Truth Tables & Boolean Algebra](https://medium.com/i-math/intro-to-truth-tables-boolean-algebra-73b331dd9b94)
+
+****
