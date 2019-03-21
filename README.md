@@ -41,6 +41,8 @@
 
 [GLUON](https://gluon.mxnet.io/index.html#)
 
+[jeremyjordan](https://www.jeremyjordan.me/data-science/)
+
 *****
 
 # Artificial Neural Networks (ANN)
@@ -70,8 +72,16 @@
 
 
 ## Autoencoder
+- [A Simple Autoencoder_udacity](https://nbviewer.jupyter.org/github/udacity/deep-learning-v2-pytorch/blob/master/autoencoder/linear-autoencoder/Simple_Autoencoder_Solution.ipynb)
+
+- [autoencoder_CNN_udacity](https://nbviewer.jupyter.org/github/udacity/deep-learning-v2-pytorch/blob/master/autoencoder/convolutional-autoencoder/Convolutional_Autoencoder_Solution.ipynb)
+
+- [Denoising Autoencoder_udacity](https://nbviewer.jupyter.org/github/udacity/deep-learning-v2-pytorch/blob/master/autoencoder/denoising-autoencoder/Denoising_Autoencoder_Solution.ipynb)
+
+- [What is an Autoencoder? | Two Minute Papers_youtube](https://www.youtube.com/watch?v=Rdpbnd0pCiI)
 
 ## Transfer Learning
+
 
 ## Style Transfer
 
