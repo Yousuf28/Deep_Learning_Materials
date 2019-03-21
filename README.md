@@ -19,6 +19,8 @@
 
 ### Resources
 
+[deep_learning_udacity_github_](https://github.com/udacity/deep-learning-v2-pytorch)
+
 [Deep learning_Andrew Ng_coursera_youtube-link](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists)
 
 [Practical Deep Learning for Coders_fast.ai](https://course.fast.ai)
@@ -36,6 +38,8 @@
 [Deep Learning Wizard](https://www.deeplearningwizard.com)
 
 [Deep learning_3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
+[GLUON](https://gluon.mxnet.io/index.html#)
 
 *****
 
@@ -56,6 +60,14 @@
 # Convolutional Neural Networks (CNN)
 
 ## Weight Initialization
+
+- [weight_initialization_udacity](https://nbviewer.jupyter.org/github/Yousuf28/deep-learning-v2-pytorch-1/blob/master/weight-initialization/weight_initialization_solution.ipynb)
+
+- [Why Initialize a Neural Network with Random Weights?](https://machinelearningmastery.com/why-initialize-a-neural-network-with-random-weights/)
+
+- [weight-initialization_medium](https://medium.com/usf-msds/deep-learning-best-practices-1-weight-initialization-14e5c0295b94)
+
+
 
 ## Autoencoder
 
