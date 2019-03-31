@@ -91,6 +91,9 @@
 
 # Recurrent Neural Network (RNN)
 
+- [A friendly introduction to Recurrent Neural Networks_Luis_Serrano_youtube](https://www.youtube.com/watch?v=UNmqTiOnRfg&frags=pl%2Cwn)
+
+
 ## Long Short-Term Memory Network (LSTM)
 
 ## Embedding and Word2Vec
