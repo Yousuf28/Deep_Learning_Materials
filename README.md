@@ -98,6 +98,8 @@
 
 ## Embedding and Word2Vec
 
+- [The Illustrated Word2vec_Jay Alammar_blog](http://jalammar.github.io/illustrated-word2vec/)
+
 *******
 
 # Renerative Adversarial Networks
