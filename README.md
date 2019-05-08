@@ -14,6 +14,7 @@
 
 [Deep_learning_Stanford_University](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
+[Convolutional Neural Networks for visual recognition_stanford_notes](http://cs231n.github.io)
 
 *****
 
@@ -62,6 +63,10 @@
 # Convolutional Neural Networks (CNN)
 
 - [A friendly introduction to Convolutional Neural Networks and Image Recognition_Luis_youtube](https://www.youtube.com/watch?v=2-Ol7ZB0MmU&list=PLs8w1Cdi-zvavXlPXEAsWIh4Cgh83pZPO&index=2)
+
+- [Convolutional Neural Networks_CS231n_stanford](http://cs231n.github.io/convolutional-networks/)
+
+- [Interns Explain CNN_medium](https://blog.datawow.io/interns-explain-cnn-8a669d053f8b)
 
 ## Weight Initialization
 
