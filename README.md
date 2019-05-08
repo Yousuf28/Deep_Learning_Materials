@@ -70,6 +70,8 @@
 
 - [Interns Explain CNN_medium](https://blog.datawow.io/interns-explain-cnn-8a669d053f8b)
 
+- [Convolutional neural networks from scratch_GLUON](https://gluon.mxnet.io/chapter04_convolutional-neural-networks/cnn-scratch.html)
+
 ## Weight Initialization
 
 - [weight_initialization_udacity](https://nbviewer.jupyter.org/github/Yousuf28/deep-learning-v2-pytorch-1/blob/master/weight-initialization/weight_initialization_solution.ipynb)
