@@ -61,6 +61,8 @@
 
 # Convolutional Neural Networks (CNN)
 
+- [A friendly introduction to Convolutional Neural Networks and Image Recognition_Luis_youtube](https://www.youtube.com/watch?v=2-Ol7ZB0MmU&list=PLs8w1Cdi-zvavXlPXEAsWIh4Cgh83pZPO&index=2)
+
 ## Weight Initialization
 
 - [weight_initialization_udacity](https://nbviewer.jupyter.org/github/Yousuf28/deep-learning-v2-pytorch-1/blob/master/weight-initialization/weight_initialization_solution.ipynb)
