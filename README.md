@@ -13,6 +13,7 @@
 [fast_ai_course](https://www.fast.ai)
 
 [Deep_learning_Stanford_University](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+[MIT Deep Learning](https://deeplearning.mit.edu)
 
 [Convolutional Neural Networks for visual recognition_stanford_notes](http://cs231n.github.io)
 
