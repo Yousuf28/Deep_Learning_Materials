@@ -96,11 +96,14 @@
 
 ## Style Transfer
 
-- [Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
+- [Image Style Transfer Using Convolutional Neural Networks_paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
 
 - [Style Transfer_Udacity](https://nbviewer.jupyter.org/github/Yousuf28/deep-learning-v2-pytorch-1/blob/master/style-transfer/Style_Transfer_Solution.ipynb)
 
 - [Neural Style Transfer Tutorial -Part 1_medium](https://towardsdatascience.com/neural-style-transfer-tutorial-part-1-f5cd3315fa7f)
+
+- [Neural Style Transfer - the math & code](https://medium.com/@shangethrajaa/neural-style-transfer-the-math-code-71ef46200ca8)
+
 
 *******
 
