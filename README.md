@@ -93,6 +93,20 @@
 
 ## Transfer Learning
 
+- [TORCHVISION.MODELS](https://pytorch.org/docs/stable/torchvision/models.html)
+
+- [TRANSFER LEARNING TUTORIAL](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
+
+- [Transfer Learning with Convolutional Neural Networks in PyTorch_medium](https://towardsdatascience.com/transfer-learning-with-convolutional-neural-networks-in-pytorch-dd09190245ce)
+
+- [Transfer learning from pre-trained models_medium](https://towardsdatascience.com/transfer-learning-from-pre-trained-models-f2393f124751)
+
+- [How to Use The Pre-Trained VGG Model to Classify Objects in Photographs](https://machinelearningmastery.com/use-pre-trained-vgg-model-classify-objects-photographs/)
+
+
+- [Breakthrough Research Papers About Image Classification_model_description](https://blog.paralleldots.com/data-science/research-papers-image-classification/)
+
+
 
 ## Style Transfer
 
