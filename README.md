@@ -132,10 +132,14 @@
 
 - [The Unreasonable Effectiveness of Recurrent Neural Networks_Andrej Karpathy blog](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
+- [Illustrated Guide to Recurrent Neural Networks_medium](https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9)
+
 
 ## Long Short-Term Memory Network (LSTM)
 
 - [Understanding LSTM Networks_Christopher Olah](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+- [Illustrated Guide to LSTM’s and GRU’s: A step by step explanation_medium](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
 
 ## Embedding and Word2Vec
 
@@ -143,7 +147,7 @@
 
 *******
 
-# Renerative Adversarial Networks
+# Generative Adversarial Networks(GAN)
 
 ## CycleGAN
 
