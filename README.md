@@ -54,6 +54,10 @@
 
 ## Backpropagation
 
+
+- [Yes you should understand backprop_Andrej Karpathy](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
+
+
 ## Optimazation
 
 ## Visuals
@@ -126,8 +130,12 @@
 
 - [A friendly introduction to Recurrent Neural Networks_Luis_Serrano_youtube](https://www.youtube.com/watch?v=UNmqTiOnRfg&frags=pl%2Cwn)
 
+- [The Unreasonable Effectiveness of Recurrent Neural Networks_Andrej Karpathy blog](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
 
 ## Long Short-Term Memory Network (LSTM)
+
+- [Understanding LSTM Networks_Christopher Olah](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 ## Embedding and Word2Vec
 
