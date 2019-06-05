@@ -141,9 +141,26 @@
 
 - [Illustrated Guide to LSTM’s and GRU’s: A step by step explanation_medium](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
 
+- [To understand LSTM architecture, code a forward pass with just NumPy_medium](https://towardsdatascience.com/the-lstm-reference-card-6163ca98ae87)
+
+-[Understanding architecture of LSTM cell from scratch with code_hacker noon](https://hackernoon.com/understanding-architecture-of-lstm-cell-from-scratch-with-code-8da40f0b71f4)
+
 ## Embedding and Word2Vec
 
 - [The Illustrated Word2vec_Jay Alammar_blog](http://jalammar.github.io/illustrated-word2vec/)
+
+- [Word2vec from Scratch with Python and NumPy](https://nathanrooy.github.io/posts/2018-03-22/word2vec-from-scratch-with-python-and-numpy/)
+
+- [Word2Vec (introduce and tensorflow implementation)_ youtube](https://www.youtube.com/watch?v=64qSgA66P-8)
+
+- [Python implementation of Word2Vec](http://www.claudiobellei.com/2018/01/07/backprop-word2vec-python/)
+
+- [A Word2Vec Keras tutorial](https://adventuresinmachinelearning.com/word2vec-keras-tutorial/)
+
+
+## Attention
+
+- [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)_ Jay Alammar_blog](http://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 
 *******
 
