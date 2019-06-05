@@ -143,7 +143,7 @@
 
 - [To understand LSTM architecture, code a forward pass with just NumPy_medium](https://towardsdatascience.com/the-lstm-reference-card-6163ca98ae87)
 
--[Understanding architecture of LSTM cell from scratch with code_hacker noon](https://hackernoon.com/understanding-architecture-of-lstm-cell-from-scratch-with-code-8da40f0b71f4)
+- [Understanding architecture of LSTM cell from scratch with code_hacker noon](https://hackernoon.com/understanding-architecture-of-lstm-cell-from-scratch-with-code-8da40f0b71f4)
 
 ## Embedding and Word2Vec
 
