@@ -18,6 +18,8 @@
 
 [Convolutional Neural Networks for visual recognition_stanford_notes](http://cs231n.github.io)
 
+
+
 *****
 
 ### Resources
@@ -27,6 +29,8 @@
 [Deep learning_Andrew Ng_coursera_youtube-link](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists)
 
 [Practical Deep Learning for Coders_fast.ai](https://course.fast.ai)
+
+[Michael Nielsen_book](http://neuralnetworksanddeeplearning.com/index.html)
 
 [Machine Learning & Deep Learning Fundamentals_deeplizard](http://deeplizard.com/learn/video/gZmobeGL0Yg)
 
@@ -50,19 +54,43 @@
 
 # Artificial Neural Networks (ANN)
 
-## Perceptron
+
+- [A Visual and Interactive Guide to the Basics of Neural Networks_Jay Alammar](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
+
+- [A Visual And Interactive Look at Basic Neural Network Math_Jay Alammar](http://jalammar.github.io/feedforward-neural-networks-visual-interactive/)
+
 
 ## Backpropagation
 
+- [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 
 - [Yes you should understand backprop_Andrej Karpathy](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
 
 
 ## Optimazation
 
+- [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/index.html#rmsprop)
+
+- [Intro to optimization in deep learning: Vanishing gradients and choosing the right activation function](https://blog.paperspace.com/vanishing-gradients-activation-function/)
+
+- [Understanding Activation Functions in Neural Networks](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0)
+
+- [Activation Functions in Neural Networks](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)
+
+- [7 Types of Neural Network Activation Functions: How to Choose?](https://missinglink.ai/guides/neural-network-concepts/7-types-neural-network-activation-functions-right/)
+
+
 ## Visuals
 
-## 
+- [Tinker With a Neural Network Right Here in Your Browser_Playground_tensorflow](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.21579&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+
+- [Publication-ready NN-architecture schematics](http://alexlenail.me/NN-SVG/index.html)
+
+- [Deep Learning in your browser](https://cs.stanford.edu/people/karpathy/convnetjs/index.html)
+
+- [Matrix Multiplication](http://matrixmultiplication.xyz)
+
+
 
 *******
 
