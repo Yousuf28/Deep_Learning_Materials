@@ -173,6 +173,8 @@
 
 - [Understanding architecture of LSTM cell from scratch with code_hacker noon](https://hackernoon.com/understanding-architecture-of-lstm-cell-from-scratch-with-code-8da40f0b71f4)
 
+- [Long Short-Term Memory (LSTM) network with PyTorch_deep_learning_wizard](https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_lstm_neuralnetwork/)
+
 ## Embedding and Word2Vec
 
 - [The Illustrated Word2vec_Jay Alammar_blog](http://jalammar.github.io/illustrated-word2vec/)
